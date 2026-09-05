@@ -1,0 +1,6 @@
+{
+  "goal": "Create a monthly budget based on last 60 days spending",
+  "expected": {
+    "hasBudget": true
+  }
+}

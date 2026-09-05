@@ -1,0 +1,6 @@
+{
+  "goal": "Optimize my monthly expenses and suggest a savings plan",
+  "expected": {
+    "hasSavingsPlan": true
+  }
+}

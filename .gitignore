@@ -1,0 +1,37 @@
+# Dependencies
+**/node_modules/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Build output
+**/dist/
+**/build/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+agent/memory_store.json
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+backend/error.txt
+
+# IDE and local helper artifacts
+.vscode/
+.claude-dev-helper/
+.claude-dev-helper-backup/
+
+# Archives and test artifacts
+*.zip
+coverage/
+screenshots/
+test-results/
+
+# Runtime uploads
+backend/services/uploads/*

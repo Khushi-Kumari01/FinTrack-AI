@@ -1,0 +1,6 @@
+{
+  "goal": "Detect unusual or anomalous spending in last 30 days",
+  "expected": {
+    "hasAnomaliesCheck": true
+  }
+}

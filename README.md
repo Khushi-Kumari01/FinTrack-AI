@@ -1,4 +1,4 @@
-# FinTrack MultiAgent
+# FinTrack AI
 
 FinTrack is organized as three separate application areas:
 
